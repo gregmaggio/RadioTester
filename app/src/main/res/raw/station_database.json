@@ -1,0 +1,38 @@
+[{
+        "title": "610 CKTB",
+        "description": "Niagra's News & Talk",
+        "website": "https://610cktb.com/",
+        "genre": "News",
+        "location": "St Catharines, Ontario, Canada",
+        "language": "English",
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAM.mp3"
+    }, {
+        "title": "WMBD Radio",
+        "description": "Stay Connected",
+        "website": "https://wmbdradio.com/",
+        "genre": "News",
+        "location": "Peoria, Illinois, United States",
+        "language": "English",
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMBDAM.mp3"
+    }, {
+        "title": "88.5 KQED",
+        "description": "NPR for the Bay Area",
+        "website": "",
+        "genre": "News",
+        "location": "San Francisco, California, United States",
+        "language": "English",
+        "streamURL": "https://hls.kqed.org/kqed-iheart/playlist.m3u8"
+    }, {
+        "title": "94.7 HD2 | Fox Sports Lehigh Valley - WODE-HD2 (Sports Talk & News)",
+        "description": "FOX Sports Of The Lehigh Valley",
+        "website": "https://www.lvfoxsports.com/",
+        "genre": "Sports",
+        "location": "Bethlehem, Pennsilvania, United States",
+        "language": "English",
+        "streamURL": "https://playerservices.streamtheworld.com/pls/WEEXAM.pls"
+    }
+	
+	
+	
+	
+]

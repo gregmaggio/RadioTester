@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Radio Tester</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="exit">Exit</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="website">website</string>
+    <string name="genre">Genre</string>
+    <string name="location">Location</string>
+    <string name="language">Language</string>
+    <string name="stream_url">Stream URL</string>
+    <string name="test_stream">Test Stream</string>
+    <string name="stop_stream">Stop Stream</string>
+    <string name="submit_station">Submit Station</string>
+    <string name="id">ID</string>
+    <string name="icon_url">Icon URL</string>
+    <string name="retrieve_station">Retrieve Station</string>
+    <string name="retrieve_icon">Retrieve Icon</string>
+</resources>
